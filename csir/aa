@@ -1,0 +1,15 @@
+source etc/network/interfaces.d/*
+
+auto lo
+iface lo inet loopback
+
+
+auto enp19s0
+
+
+
+
+
+
+
+iface enp19s0 inet dhcp

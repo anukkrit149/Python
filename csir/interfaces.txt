@@ -1,0 +1,12 @@
+source etc/network/interfaces.d/*
+
+auto lo	
+iface lo inet loopback
+
+
+auto enp19s0
+iface enp19s0 inet static
+  address 192.168.1.14
+  gateway 192.168.1.1
+  netmask 255.255.255.0
+  network 192.168.1.0
