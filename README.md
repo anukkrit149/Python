@@ -2,7 +2,7 @@
 
 
 ## Python codes
-* algorithms
+* Algorithms
 * Data Cleaning Projects
 * SQLite Projects
 * Web Scraping Projects
